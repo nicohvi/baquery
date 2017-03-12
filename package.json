@@ -1,7 +1,7 @@
 {
   "name": "baquery",
   "version": "0.0.1",
-  "description": "Extends the default jquery object with bacon functionality",
+  "description": "Extends the default jQuery object with Bacon.js functionality",
   "main": "index.js",
   "repository": {
     "type": "git",
