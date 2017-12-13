@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import { Bacon as B } from 'baconjs';
+import B from 'baconjs';
 
 $.fn.asEventStream = B.$.asEventStream;
 
