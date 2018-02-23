@@ -1,0 +1,11 @@
+{
+  "name": "baquery-test",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "baquery": "../"
+  },
+  "main": "app.js",
+  "author": "",
+  "license": "MIT"
+}
