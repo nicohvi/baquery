@@ -1,6 +1,6 @@
 {
   "name": "baquery",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Extends the default jQuery object with Bacon.js functionality",
   "main": "index.js",
   "repository": {
